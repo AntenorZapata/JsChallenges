@@ -1,14 +1,7 @@
-function factorial(num) {
-  if (num === 0) return 1;
-  let result = num;
+function printFibonacci(n) {}
 
-  for (let i = num - 1; i >= 1; i -= 1) {
-    result *= i;
-  }
-  return result;
-}
+printFibonacci(2);
+// - Returns 0 1
 
-// console.log(factorial(0));
-// console.log(factorial(1));
-console.log(factorial(4));
-// console.log(factorial(5));
+printFibonacci(7);
+// - Returns 0 1 1 2 3 5 8
