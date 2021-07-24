@@ -1,0 +1,1 @@
+console.log(capitalize('a short sentence'));
