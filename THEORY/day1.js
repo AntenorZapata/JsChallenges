@@ -66,25 +66,6 @@ class LinkedList {
   }
 }
 
-let myLinkedList = new LinkedList(2);
-
-myLinkedList.push(9);
-myLinkedList.push(11);
+let myLinkedList = new LinkedList(1);
+myLinkedList.push(2);
 myLinkedList.pop();
-
-// for (const a in myLinkedList) {
-//   console.log(a);
-// }
-
-console.log(myLinkedList);
-
-// head: {
-// 	value 2,
-// 	next: {
-// 		value: 9,
-// 		next: {
-// 			value: 12,
-// 			next: null
-// 		}
-// 	}
-// }
