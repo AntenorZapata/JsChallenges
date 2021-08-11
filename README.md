@@ -1,1 +1,1 @@
-## Collection of JavaScript Challenges - Data Structure and Algorithms studies.
+## Collection of JavaScript Challenges and Data Structure and Algorithms studies.
