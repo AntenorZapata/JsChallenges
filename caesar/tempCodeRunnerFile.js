@@ -26,4 +26,4 @@ const caesarCipher = (str, num) => {
   return result.toLowerCase();
 };
 
-console.log(caesarCipher('zoo keeper', -2));
+console.log(caesarCipher('zoo keeper', 2));
