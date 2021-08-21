@@ -1,3 +1,5 @@
+// JavaScript Algorithms and Data Structures - FreeCodeCamp
+
 function sumAll(arr) {
 	const max = Math.max(...arr);
 	const min = Math.min(...arr);
